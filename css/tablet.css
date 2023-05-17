@@ -1,0 +1,340 @@
+/* Estilos para pantallas de menos de 480px */
+@media only screen and ((min-width: 769px) and (max-width: 1199px)) {
+ 
+  body {
+    font-family: 'Luckiest Guy', cursive;
+    /* margin: 50px; */
+    background-color: #f2f2f2;
+    color: #252525;
+    transition: 0.5s ease-in-out;
+    margin: 0;
+    padding: 0;    
+  }
+.logo{
+
+  position: absolute;
+  left: -200px;
+  top: 30px;
+  width: 500px;
+  height: 50px;
+}
+#input1 {
+  border: none;
+  outline: none;
+  background-color: transparent;
+  font-size: 24px;
+  padding: 1vh;
+  width: 90vw;
+  position: absolute;
+  height: auto;
+  min-height: 212px; 
+  left: 70px;
+  top: 210px;
+  font-weight: 400;
+  line-height: 150%;
+  color: #0A3871;
+  resize: none;
+  z-index: 1;
+}
+
+}
+
+.ubiBotones{
+  display: flex;
+  position: relative;
+  padding: 5px;
+  gap: 24px;
+  align-items: center;
+  position: absolute;
+  width: 320px;
+  height: 67px;
+  left: 58px;
+  top: 700px;  
+  margin: 99px auto; 
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+
+
+::placeholder {
+  color: #0A3871;
+  opacity: 1;
+
+}
+
+
+
+  .muestraMensaje{
+      position: absolute;
+      width: 336px;
+      height: 274px;
+      left: 180px;
+      top: 303px;
+      margin-right: 10px;
+      margin-left: 10px;
+      z-index: 2;
+    }
+    
+    .texclone {
+      position: absolute;
+      width: 336px;
+      height: 58px;
+      left: 200px;
+      top: 580px;    
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 120%;        
+      text-align: center;
+      color: #343A40;
+      flex: none;
+      order: 1;
+      align-self: stretch;
+      flex-grow: 0;
+      margin-right: 10px;
+      margin-left: 10px;
+      
+    
+    }
+   
+    
+
+  
+  #input2{        
+    background-color: transparent;
+    font-size: 24px;
+    padding: 1vh;
+    width: 90vw;  
+    position: absolute;     
+    height: 72px;
+    left: -142px;
+    top: 345px; 
+    font-weight: 400;    
+    line-height: 150%;
+    color: #0A3871;            
+    border: none;   
+    outline: none;
+    resize: none;
+    
+
+   
+    
+    
+  }
+  
+  #btn-encriptar {        
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      gap: 8px;        
+      width: 328px;
+      height: 67px;        
+      background: #0A3871;
+      border-radius: 24px;
+      flex: none;
+      order: 0;
+      flex-grow: 0;
+      font-family: 'Luckiest Guy', cursive;
+      color: white;
+      text-align: center;    
+      font-size: 20px;
+    }
+    #btn-encriptar:hover {
+      border: 1px solid;
+      box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.5),
+          0 0 20px rgba(68, 19, 19, 0.2);
+      outline-color: rgb(238, 9, 9);
+      outline-offset: 15px;
+      text-shadow: 1px 1px 2px #427388;
+  }
+    
+    
+  #btn-desencriptar {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    gap: 8px;
+    width: 328px;
+    height: 67px;
+    background: #c6c6c6;
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    font-family: 'Luckiest Guy';
+    font-size: 20px;
+    border: 1px solid ;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+    outline: 1px solid;
+    outline-color: rgba(255, 255, 255, 0.5);
+    outline-offset: 0px;
+    text-shadow: none;
+    transition: all 1250ms cubic-bezier(0.19, 1, 0.22, 1);
+    color: #4e4d4d; /* Agregar color blanco al texto */
+   
+  }
+  
+  #btn-desencriptar:hover {
+    border: 1px solid;
+    box-shadow: inset 0 0 20px  rgb(255, 253, 253),
+      0 0 20px rgb(255, 253, 253);
+    outline-color: rgb(255, 255, 255);
+    outline-offset: 15px;
+    text-shadow: 0px 0px 5px #fff, 0px 0px 10px #fff, 0px 0px 15px #fff, 0px 0px 20px #fff; /* Agregar sombra de texto con efecto fosforescente */
+  }
+  
+  
+
+  
+ .material-symbols-outlined {
+      font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 48;
+      border: 1px solid transparent;
+      transition: all 0.3s ease;
+      background-color: transparent;
+      position: absolute;
+        width: 25px;
+        height: 25px;
+        left: 192px;
+        top: 330px; 
+        font-weight: 400;
+        font-size: 1.9em;
+        line-height: 150%;
+        color: #0A3871;
+        background-color: transparent;
+        border: none;   
+        outline: none;
+        resize: none;
+       
+
+
+    } 
+    
+    .material-symbols-outlined:hover {
+      border-color: #03d3f7; /* o cualquier color deseado */
+      box-shadow: 0 0 10px #0b79f6c7; /* o cualquier color deseado */
+      
+      
+    }
+    
+    
+.minusculas{  
+position: absolute;
+display: flex;
+top: -2vh;
+left: 10px;
+width: 400px;
+font-style:italic;
+justify-content: center;
+margin-top: -10px;
+margin-left: 110px;
+margin-right: 10px;
+
+
+}
+.exclamation{
+margin-right: 1vh;
+position: relative;
+
+
+}
+textarea {
+  overflow-y: auto;  
+}
+
+
+
+                              /* CSS del Modo Oscuro */
+                              
+ * {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+input[type="checkbox"] {
+position: relative;
+width: 40px;
+height: 20px;
+background-color: #434343;
+appearance: none;   /* Hides certain features of widgets */ 
+outline: none;
+border-radius: 20px;
+cursor: pointer;
+transition: 0.5s ease;
+
+} 
+
+input[type="checkbox"]:checked {
+background-color: #04ac2e;
+
+}
+
+input[type="checkbox"]::before {
+content: '';
+position: absolute;
+width: 16px;
+height: 16px;
+background-color: #f2f2f2;
+border-radius: 50%;
+top: 2px;
+left: 2px;
+transition: 0.7s ease;
+}
+
+input[type="checkbox"]:checked::before {
+transform: translateX(20px);
+}
+
+.dark-mode {
+background-color: #252525;
+color: #f2f2f2;
+}
+
+.alinearDark {
+
+width: 20%;
+margin-left: 570px;
+margin-top: 62px;
+position: absolute;
+color: #0A3871;
+white-space: nowrap;
+
+}
+.alinearDark p {
+margin: 0 10px 0 1px;
+
+}
+
+footer {
+position:absolute;
+bottom: 0;
+width: 100%;
+text-align: center;
+padding: 10px 0;
+font-size: x-large;
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
