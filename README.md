@@ -42,7 +42,7 @@ Extras:
 
 # Agradecimientos a : 
 <p float="left">
-  <a href="https://postimg.cc/qN1JqkDc"><img src="https://i.postimg.cc/7LkfBhgR/Oracle-Alura-LATAM.png" alt="Oracle Alura LATAM" width="200"></a>
+  <a href="https://postimg.cc/qN1JqkDc"><img src="https://i.postimg.cc/7LkfBhgR/Oracle-Alura-LATAM.png" alt="Oracle Alura LATAM" width="400"></a>
   <a href="https://postimg.cc/HczVCf8j"><img src="https://i.postimg.cc/tJQPFbXd/Next-Education.png" alt="Next Education" width="200"></a>
 </p>
 
