@@ -52,11 +52,10 @@ Extras:
 # Capturas de modos :
 
 | Escritorio claro                        | Escritorio oscuro                        |
-| ------------------------------------------ | ---------------------------------------- |
+| ---------------------------------------- | ---------------------------------------- |
 | ![Escritorio claro](https://i.postimg.cc/d19V3cSS/escritorio-B.png) | ![Escritorio oscuro](https://i.postimg.cc/JzB7Jk2X/escritorio-N.png) |
-| --------------------------------------- | ---------------------------------------- |
 | Móvil claro                        | Móvil oscuro                        |
-| ![Móvil claro](https://i.postimg.cc/PJ3fbzHW/movilb.png) | ![Móvil oscuro](https://i.postimg.cc/fyTT0qGW/moviln.png) |
-| ------------------------------------------ | ---------------------------------------- |
+| <img src="https://i.postimg.cc/PJ3fbzHW/movilb.png" width="300"> | <img src="https://i.postimg.cc/fyTT0qGW/moviln.png" width="300"> |
 | Tablet claro                        | Tablet oscuro                        |
-| ![Tablet claro](https://i.postimg.cc/zXvGzMw0/tabletb.png) | ![Tablet oscuro](https://i.postimg.cc/dQ40KvCh/tabletn.png) |
+| <img src="https://i.postimg.cc/zXvGzMw0/tabletb.png" width="300"> | <img src="https://i.postimg.cc/dQ40KvCh/tabletn.png" width="300"> |
+
