@@ -50,10 +50,6 @@ Extras:
 # Grupo G5 - ONE
 
 # Capturas de modos :
-<!-- CSS del carrusel -->
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
-
-<!-- Imágenes del carrusel -->
 <div class="slider">
   <div>
     <a href="https://postimg.cc/DJ8TpHhq" target="_blank"><img src="https://i.postimg.cc/d19V3cSS/escritorio-B.png" alt="escritorio-B"/></a>
