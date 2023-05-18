@@ -50,16 +50,44 @@ Extras:
 # Grupo G5 - ONE
 
 # Capturas de modos :
-[url=https://postimg.cc/DJ8TpHhq][img]https://i.postimg.cc/DJ8TpHhq/escritorio-B.png[/img][/url]
+<!-- CSS del carrusel -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
 
-[url=https://postimg.cc/k2qdPB9M][img]https://i.postimg.cc/k2qdPB9M/escritorio-N.png[/img][/url]
+<!-- Imágenes del carrusel -->
+<div class="slider">
+  <div>
+    <a href="https://postimg.cc/DJ8TpHhq" target="_blank"><img src="https://i.postimg.cc/d19V3cSS/escritorio-B.png" alt="escritorio-B"/></a>
+  </div>
+  <div>
+    <a href="https://postimg.cc/k2qdPB9M" target="_blank"><img src="https://i.postimg.cc/JzB7Jk2X/escritorio-N.png" alt="escritorio-N"/></a>
+  </div>
+  <div>
+    <a href="https://postimg.cc/2LWfrWVy" target="_blank"><img src="https://i.postimg.cc/PJ3fbzHW/movilb.png" alt="movilb"/></a>
+  </div>
+  <div>
+    <a href="https://postimg.cc/BLkGrpZR" target="_blank"><img src="https://i.postimg.cc/fyTT0qGW/moviln.png" alt="moviln"/></a>
+  </div>
+  <div>
+    <a href="https://postimg.cc/tY0jDBMx" target="_blank"><img src="https://i.postimg.cc/zXvGzMw0/tabletb.png" alt="tabletb"/></a>
+  </div>
+  <div>
+    <a href="https://postimg.cc/NL2t13pt" target="_blank"><img src="https://i.postimg.cc/dQ40KvCh/tabletn.png" alt="tabletn"/></a>
+  </div>
+</div>
 
-[url=https://postimg.cc/2LWfrWVy][img]https://i.postimg.cc/2LWfrWVy/movilb.png[/img][/url]
-
-[url=https://postimg.cc/BLkGrpZR][img]https://i.postimg.cc/BLkGrpZR/moviln.png[/img][/url]
-
-[url=https://postimg.cc/tY0jDBMx][img]https://i.postimg.cc/tY0jDBMx/tabletb.png[/img][/url]
-
-[url=https://postimg.cc/NL2t13pt][img]https://i.postimg.cc/NL2t13pt/tabletn.png[/img][/url]
+<!-- JavaScript del carrusel -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $('.slider').slick({
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      dots: true
+    });
+  });
+</script>
 
 
