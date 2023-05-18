@@ -44,7 +44,22 @@ Extras:
 <p float="left">
   <a href="https://postimg.cc/qN1JqkDc"><img src="https://i.postimg.cc/7LkfBhgR/Oracle-Alura-LATAM.png" alt="Oracle Alura LATAM" width="600"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://postimg.cc/HczVCf8j"><img src="https://i.postimg.cc/tJQPFbXd/Next-Education.png" alt="Next Education" width="200"></a>
+  <a href="https://postimg.cc/HczVCf8j"><img src="https://i.postimg.cc/tJQPFbXd/Next-Education.png" alt="Next Education" width="300"></a>
 </p>
+
+# Grupo G5 - ONE
+
+# Capturas de modos :
+[url=https://postimg.cc/DJ8TpHhq][img]https://i.postimg.cc/DJ8TpHhq/escritorio-B.png[/img][/url]
+
+[url=https://postimg.cc/k2qdPB9M][img]https://i.postimg.cc/k2qdPB9M/escritorio-N.png[/img][/url]
+
+[url=https://postimg.cc/2LWfrWVy][img]https://i.postimg.cc/2LWfrWVy/movilb.png[/img][/url]
+
+[url=https://postimg.cc/BLkGrpZR][img]https://i.postimg.cc/BLkGrpZR/moviln.png[/img][/url]
+
+[url=https://postimg.cc/tY0jDBMx][img]https://i.postimg.cc/tY0jDBMx/tabletb.png[/img][/url]
+
+[url=https://postimg.cc/NL2t13pt][img]https://i.postimg.cc/NL2t13pt/tabletn.png[/img][/url]
 
 
