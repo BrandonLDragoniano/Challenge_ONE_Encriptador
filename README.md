@@ -36,7 +36,10 @@ Extras:
 
   # Lenguajes Utilizados 
   
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"></a> 
-<a href="https://developer.mozilla.org/es/docs/HTML/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"></a> JavaScript
+<a href="https://developer.mozilla.org/es/docs/HTML/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML5"></a> HTML5
+<a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS"></a> CSS
 
+# Agradecimientos a : 
+[![Oracle-Alura-LATAM.png](https://i.postimg.cc/7LkfBhgR/Oracle-Alura-LATAM.png)](https://postimg.cc/qN1JqkDc) 
+[![Next-Education.png](https://i.postimg.cc/tJQPFbXd/Next-Education.png)](https://postimg.cc/HczVCf8j)
