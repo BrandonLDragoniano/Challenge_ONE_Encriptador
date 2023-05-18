@@ -34,8 +34,9 @@ Extras:
 ## Un Modo Oscuro 
 [![Challenge-ONE-2-4.jpg](https://i.postimg.cc/rpCLbM6p/Challenge-ONE-2-4.jpg)](https://postimg.cc/nsz598h8)
 
-  #Lenguajes Utilizados 
+  # Lenguajes Utilizados 
   
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/es/docs/HTML/HTML5)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/es/docs/Web/CSS)
+<a href="https://developer.mozilla.org/es/docs/HTML/HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt="CSS"></a>
+
