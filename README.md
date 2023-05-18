@@ -55,7 +55,7 @@ Extras:
 | ---------------------------------------- | ---------------------------------------- |
 | ![Escritorio claro](https://i.postimg.cc/d19V3cSS/escritorio-B.png) | ![Escritorio oscuro](https://i.postimg.cc/JzB7Jk2X/escritorio-N.png) |
 | Móvil claro                        | Móvil oscuro                        |
-| <img src="https://i.postimg.cc/PJ3fbzHW/movilb.png" width="100%"> | <img src="https://i.postimg.cc/fyTT0qGW/moviln.png" width="300"> |
+| <img src="https://i.postimg.cc/PJ3fbzHW/movilb.png" width="100%"> | <img src="https://i.postimg.cc/fyTT0qGW/moviln.png" width="100%"> |
 | Tablet claro                        | Tablet oscuro                        |
-| <img src="https://i.postimg.cc/zXvGzMw0/tabletb.png" width="300"> | <img src="https://i.postimg.cc/dQ40KvCh/tabletn.png" width="300"> |
+| <img src="https://i.postimg.cc/zXvGzMw0/tabletb.png" width="100%"> | <img src="https://i.postimg.cc/dQ40KvCh/tabletn.png" width="100%"> |
 
