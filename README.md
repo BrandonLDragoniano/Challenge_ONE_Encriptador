@@ -50,38 +50,9 @@ Extras:
 # Grupo G5 - ONE
 
 # Capturas de modos :
-<div class="slider">
-  <div>
-    <a href="https://postimg.cc/DJ8TpHhq" target="_blank"><img src="https://i.postimg.cc/d19V3cSS/escritorio-B.png" alt="escritorio-B"/></a>
-  </div>
-  <div>
-    <a href="https://postimg.cc/k2qdPB9M" target="_blank"><img src="https://i.postimg.cc/JzB7Jk2X/escritorio-N.png" alt="escritorio-N"/></a>
-  </div>
-  <div>
-    <a href="https://postimg.cc/2LWfrWVy" target="_blank"><img src="https://i.postimg.cc/PJ3fbzHW/movilb.png" alt="movilb"/></a>
-  </div>
-  <div>
-    <a href="https://postimg.cc/BLkGrpZR" target="_blank"><img src="https://i.postimg.cc/fyTT0qGW/moviln.png" alt="moviln"/></a>
-  </div>
-  <div>
-    <a href="https://postimg.cc/tY0jDBMx" target="_blank"><img src="https://i.postimg.cc/zXvGzMw0/tabletb.png" alt="tabletb"/></a>
-  </div>
-  <div>
-    <a href="https://postimg.cc/NL2t13pt" target="_blank"><img src="https://i.postimg.cc/dQ40KvCh/tabletn.png" alt="tabletn"/></a>
-  </div>
-</div>
-
-<!-- JavaScript del carrusel -->
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
-<script>
-  $(document).ready(function(){
-    $('.slider').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      autoplay: true,
-      autoplaySpeed: 2000,
-      dots: true
-    });
-  });
-</script>
+![Escritorio claro](https://i.postimg.cc/d19V3cSS/escritorio-B.png)
+![Escritorio oscuro](https://i.postimg.cc/JzB7Jk2X/escritorio-N.png)
+![Móvil claro](https://i.postimg.cc/PJ3fbzHW/movilb.png)
+![Móvil oscuro](https://i.postimg.cc/fyTT0qGW/moviln.png)
+![Tablet claro](https://i.postimg.cc/zXvGzMw0/tabletb.png)
+![Tablet oscuro](https://i.postimg.cc/dQ40KvCh/tabletn.png)
