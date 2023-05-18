@@ -1,6 +1,6 @@
 # Challenge ONE Encriptador
 # Encriptador Alura Challenge ONE
-[![Challenge-ONE-2-4.jpg](https://i.postimg.cc/rpCLbM6p/Challenge-ONE-2-4.jpg)](https://postimg.cc/nsz598h8)
+
 ## ¡Bienvenidas y bienvenidos a mi primer desafío Alura!
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
@@ -29,6 +29,13 @@ El resultado debe ser mostrado en la pantalla.
 
 Extras:
 
-##Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones
+## Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones
 
-##Un Modo Oscuro 
+## Un Modo Oscuro 
+[![Challenge-ONE-2-4.jpg](https://i.postimg.cc/rpCLbM6p/Challenge-ONE-2-4.jpg)](https://postimg.cc/nsz598h8)
+
+  #Lenguajes Utilizados 
+  
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://developer.mozilla.org/es/docs/HTML/HTML5)
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://developer.mozilla.org/es/docs/Web/CSS)
