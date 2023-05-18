@@ -41,5 +41,7 @@ Extras:
 <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS"></a> CSS
 
 # Agradecimientos a : 
-[![Oracle-Alura-LATAM.png](https://i.postimg.cc/7LkfBhgR/Oracle-Alura-LATAM.png)](https://postimg.cc/qN1JqkDc)
-[![Next-Education.png](https://i.postimg.cc/tJQPFbXd/Next-Education.png)](https://postimg.cc/HczVCf8j)
+<p float="left">
+  <a href="https://postimg.cc/qN1JqkDc"><img src="https://i.postimg.cc/7LkfBhgR/Oracle-Alura-LATAM.png" alt="Oracle Alura LATAM"></a>
+  <a href="https://postimg.cc/HczVCf8j"><img src="https://i.postimg.cc/tJQPFbXd/Next-Education.png" alt="Next Education"></a>
+</p>
