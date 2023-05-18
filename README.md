@@ -50,15 +50,15 @@ Extras:
 # Grupo G5 - ONE
 
 # Capturas de modos :
-| Escritorio claro                        | Escritori oscuro                        |
+Aquí tienes la tabla corregida:
+
+| Escritorio claro                        | Escritorio oscuro                        |
 | ------------------------------------------ | ---------------------------------------- |
-| ![Escritorio claro](https://i.postimg.cc/d19V3cSS/escritorio-B.png) | ![Escritorio oscuro](![Escritorio oscuro](https://i.postimg.cc/JzB7Jk2X/escritorio-N.png)) |
+| ![Escritorio claro](https://i.postimg.cc/d19V3cSS/escritorio-B.png) | ![Escritorio oscuro](https://i.postimg.cc/JzB7Jk2X/escritorio-N.png) |
 | Móvil claro                        | Móvil oscuro                        |
 | --------------------------------------- | ---------------------------------------- |
 | ![Móvil claro](https://i.postimg.cc/PJ3fbzHW/movilb.png) | ![Móvil oscuro](https://i.postimg.cc/fyTT0qGW/moviln.png) |
-
 | Tablet claro                        | Tablet oscuro                        |
 | ------------------------------------------ | ---------------------------------------- |
-| ![Tablet claro](https://i.postimg.cc/zXvGzMw0/tabletb.png) | ![Tablet oscuro](https://i.postimg.cc/dQ40KvCh/tabletn.png) |
-
+| ![Tablet claro](https://i.postimg.cc/zXvGzMw0/tabletb.png) | ![Tablet oscuro](https://i.postimg.cc/dQ40KvCh/tabletn.png) |  
 
