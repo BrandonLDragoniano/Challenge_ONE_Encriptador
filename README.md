@@ -52,8 +52,12 @@ Extras:
 # Capturas de modos :
 [![Escritorio claro](https://i.postimg.cc/d19V3cSS/escritorio-B.png)](https://postimg.cc/DJ8TpHhq)
 [![Escritorio oscuro](https://i.postimg.cc/JzB7Jk2X/escritorio-N.png)](https://postimg.cc/k2qdPB9M)
-[![Móvil claro](https://i.postimg.cc/PJ3fbzHW/movilb.png)](https://postimg.cc/2LWfrWVy)
-[![Móvil oscuro](https://i.postimg.cc/fyTT0qGW/moviln.png)](https://postimg.cc/BLkGrpZR)
-[![Tablet claro](https://i.postimg.cc/zXvGzMw0/tabletb.png)](https://postimg.cc/tY0jDBMx)
-[![Tablet oscuro](https://i.postimg.cc/dQ40KvCh/tabletn.png)](https://postimg.cc/NL2t13pt)
+| Móvil claro                        | Móvil oscuro                        |
+| ---------------------------------- | ----------------------------------- |
+| ![Móvil claro](https://i.postimg.cc/PJ3fbzHW/movilb.png) | ![Móvil oscuro](https://i.postimg.cc/fyTT0qGW/moviln.png) |
+
+| Tablet claro                        | Tablet oscuro                        |
+| ---------------------------------- | ----------------------------------- |
+| ![Tablet claro](https://i.postimg.cc/zXvGzMw0/tabletb.png) | ![Tablet oscuro](https://i.postimg.cc/dQ40KvCh/tabletn.png) |
+
 
