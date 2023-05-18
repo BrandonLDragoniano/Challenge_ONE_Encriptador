@@ -2,7 +2,13 @@
 # Encriptador Alura Challenge ONE
 
 ## ¡Bienvenidas y bienvenidos a mi primer desafío Alura!
-[![Icono de Flaticon](https://i.postimg.cc/WpBZYCDF/encryption.png =20x20)](https://www.flaticon.com/free-icon/encryption_1995724?term=encryption&related_id=1995724) Las "llaves" de encriptación que utilizaremos son las siguientes:
+<p align="center">
+  <a href="https://www.flaticon.com/free-icon/encryption_1995724?term=encryption&related_id=1995724">
+    <img src="https://i.postimg.cc/WpBZYCDF/encryption.png" alt="Icono de Flaticon" width="20" height="20">
+  </a>
+</p>
+
+<p align="center">Las "llaves" de encriptación que utilizaremos son las siguientes:</p>
 
   La letra "e" es convertida para "enter"
   La letra "i" es convertida para "imes"
